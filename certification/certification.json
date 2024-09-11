@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Designing the visual appearance of the website (UI Design) with Figma for website designers",
+    "by": "skillsacademy x prakerja",
+    "image": "./certification/uiux-skillsacademy.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://alifaryaramadhan.com"
+    }
+  },
+  {
+    "name": "Learn basic web programming",
+    "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
+    "image": "./certification/uiux-skillsacademy.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://alifaryaramadhan.com"
+    }
+  },
+  {
+    "name": "Learn basic javascript programming",
+    "by": "Dicoding Academy x IndosatID Camp",
+    "image": "./certification/uiux-skillsacademy.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://alifaryaramadhan.com"
+    }
+  },
+  {
+    "name": "Learn to Create a Web Front-End for Beginners",
+    "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
+    "image": "./certification/uiux-skillsacademy.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://alifaryaramadhan.com"
+    }
+  },
+  {
+    "name": " Learn to Create Backend Applications for Beginners with Cloudeka",
+    "by": "Dicoding Academy x Lintasarta Cloudeka Digischool",
+    "image": "./certification/uiux-skillsacademy.png",
+    "category": "programming",
+    "links": {
+      "credentials": "https://alifaryaramadhan.com"
+    }
+  }
+]

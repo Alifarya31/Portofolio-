@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Jenius Academy",
+    "tech": "HTML, CSS & JS",
+    "image": "./assets/img/project/JeniusAcademy.png",
+    "desc": "This is my first project. I learned on YouTube to make website forms using HTML, CSS & JS",
+    "links": {
+      "demo": "https://alifaryaramadhan.com/JeniusAcademy/",
+      "code": "https://github.com/Alifarya31/JeniusAcademy"
+    }
+  },
+  {
+    "title": "Vkellogg's",
+    "tech": "HTML, CSS & JS",
+    "image": "./assets/img/project/vkelloggs.png",
+    "desc": "This is my project for my BINUS final semester exam assignment",
+    "links": {
+      "demo": "https://alifaryaramadhan.com/Vkelloggs/",
+      "code": "https://github.com/Alifarya31/vkelloggs"
+    }
+  },
+  {
+    "title": "CareerSync",
+    "tech": "HTML, CSS & JS",
+    "image": "./assets/img/project/CareerSync.png",
+    "desc": "This is my project for binus assignment project",
+    "links": {
+      "demo": "https://alifaryaramadhan.com/CareerSync",
+      "code": "https://github.com/Alifarya31/CareerSync"
+    }
+  },
+  {
+    "title": "Company Profile",
+    "tech": "HTML, CSS, JS & BOOTSTRAP",
+    "image": "./assets/img/project/portfolio.png",
+    "desc": "This is my project for company profile(Thalia Education)",
+    "links": {
+      "demo": "https://alifaryaramadhan.com",
+      "code": "https://github.com/Alifarya31/"
+    }
+  },
+  {
+    "title": "Portfolio Website",
+    "tech": "HTML, CSS, JS & BOOTSTRAP",
+    "image": "./assets/img/project/portfolio.png",
+    "desc": "This is my project for personal portfolio.",
+    "links": {
+      "demo": "https://alifaryaramadhan.com",
+      "code": "https://github.com/Alifarya31/"
+    }
+  }
+]
